@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 960" width="1000" height="960" role="img" aria-label="Sección 5 · Unidades de significado y aspectos vividos">
+<title>Sección 5 · Unidades de significado y aspectos vividos</title>
+<defs><marker id="m1F3A5F" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F3A5F"/></marker><marker id="m1F7A78" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F7A78"/></marker><marker id="m2E7D32" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2E7D32"/></marker><marker id="m6B4C8A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B4C8A"/></marker><marker id="m8A3B5C" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8A3B5C"/></marker><marker id="mA84A32" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A84A32"/></marker></defs>
+<rect x="0" y="0" width="1000" height="960" rx="14" fill="#FFFFFF"/>
+<text x="500.0" y="46" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="bold" fill="#1C2329" text-anchor="middle">Sección 5 · Unidades de significado y aspectos vividos</text>
+<text x="500.0" y="76" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#56626B" text-anchor="middle">Del fragmento literal a la paráfrasis y al aspecto vivido, sin perder el rastro hasta la línea</text>
+<text x="40" y="118" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">1. Una unidad, paso a paso (L. 61–62)</text>
+<line x1="40" y1="128" x2="960" y2="128" stroke="#C9D1CD" stroke-width="1.5"/>
+<rect x="40" y="150" width="220" height="130" rx="10" fill="#E2F2F1" stroke="#1F7A78" stroke-width="2"/>
+<text x="150.0" y="192.79999999999998" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F7A78" text-anchor="middle">Fragmento literal</text>
+<text x="150.0" y="214.79999999999998" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">«era el hecho de liberar</text>
+<text x="150.0" y="232.79999999999998" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">eso tan negativo que</text>
+<text x="150.0" y="250.79999999999998" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">trajo la pandemia»</text>
+<polyline points="262,215 300,215" fill="none" stroke="#1F7A78" stroke-width="2" marker-end="url(#m1F7A78)"/>
+<rect x="302" y="140" width="236" height="150" rx="12" fill="#EFE8F6" stroke="#6B4C8A" stroke-width="2"/>
+<text x="420" y="166" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#6B4C8A" text-anchor="middle">Filtro de la paráfrasis</text>
+<text x="318" y="196" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="start">✓ ¿3.ª persona y presente?</text>
+<text x="318" y="220" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="start">✓ ¿Sin causas ni juicios?</text>
+<text x="318" y="244" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="start">✓ ¿Nada que no haya dicho?</text>
+<text x="318" y="268" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="start">✓ ¿Sin vocabulario técnico?</text>
+<polyline points="540,215 578,215" fill="none" stroke="#6B4C8A" stroke-width="2" marker-end="url(#m6B4C8A)"/>
+<text x="559" y="204" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#6B4C8A" text-anchor="middle" font-style="italic">pasa</text>
+<rect x="580" y="150" width="190" height="130" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
+<text x="675.0" y="192.79999999999998" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Paráfrasis</text>
+<text x="675.0" y="214.79999999999998" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">Estar con los amigos</text>
+<text x="675.0" y="232.79999999999998" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">es liberar lo negativo</text>
+<text x="675.0" y="250.79999999999998" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">de la pandemia</text>
+<polyline points="772,215 808,215" fill="none" stroke="#1F3A5F" stroke-width="2" marker-end="url(#m1F3A5F)"/>
+<rect x="810" y="150" width="150" height="130" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
+<text x="885.0" y="192.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#2E7D32" text-anchor="middle">Aspecto vivido</text>
+<text x="885.0" y="212.5" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">ASP-07</text>
+<text x="885.0" y="230.5" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">Amistad</text>
+<text x="885.0" y="248.5" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">que libera</text>
+<polyline points="380,292 230,340" fill="none" stroke="#A84A32" stroke-width="2" marker-end="url(#mA84A32)"/>
+<text x="285" y="312" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#A84A32" text-anchor="middle" font-style="italic">no pasa</text>
+<polyline points="460,292 620,340" fill="none" stroke="#A84A32" stroke-width="2" marker-end="url(#mA84A32)"/>
+<text x="560" y="312" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#A84A32" text-anchor="middle" font-style="italic">no pasa</text>
+<rect x="40" y="342" width="420" height="92" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
+<text x="250.0" y="374.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#A84A32" text-anchor="middle">✗ «Experimenta catarsis emocional</text>
+<text x="250.0" y="394.5" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">en el grupo de pares»</text>
+<text x="250.0" y="412.5" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">vocabulario técnico: la vivencia se vuelve concepto</text>
+<rect x="500" y="342" width="460" height="92" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
+<text x="730.0" y="374.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#A84A32" text-anchor="middle">✗ «Salir lo hacía sentir libre</text>
+<text x="730.0" y="394.5" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">porque estaba deprimido»</text>
+<text x="730.0" y="412.5" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">añade una causa y un estado que Tomás no nombra</text>
+<text x="40" y="486" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">2. Las unidades que muestran lo mismo se agrupan en aspectos vividos</text>
+<line x1="40" y1="496" x2="960" y2="496" stroke="#C9D1CD" stroke-width="1.5"/>
+<rect x="40" y="512" width="120" height="44" rx="8" fill="#FAFBFA" stroke="#C9D1CD" stroke-width="1.5"/>
+<text x="100" y="540" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#56626B" text-anchor="middle">L. 27–30</text>
+<rect x="176" y="512" width="330" height="44" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
+<text x="341.0" y="538.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">Casi siempre fuera de casa</text>
+<polyline points="508,534 596,534" fill="none" stroke="#2E7D32" stroke-width="2" marker-end="url(#m2E7D32)"/>
+<rect x="598" y="512" width="362" height="44" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
+<text x="779.0" y="538.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">ASP-01 · Vida hecha afuera</text>
+<rect x="40" y="568" width="120" height="44" rx="8" fill="#FAFBFA" stroke="#C9D1CD" stroke-width="1.5"/>
+<text x="100" y="596" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#56626B" text-anchor="middle">L. 30–33</text>
+<rect x="176" y="568" width="330" height="44" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
+<text x="341.0" y="594.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">Todo cambia de golpe</text>
+<polyline points="508,590 596,590" fill="none" stroke="#2E7D32" stroke-width="2" marker-end="url(#m2E7D32)"/>
+<rect x="598" y="568" width="362" height="44" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
+<text x="779.0" y="594.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">ASP-02 · Ruptura de la rutina</text>
+<rect x="40" y="624" width="120" height="44" rx="8" fill="#FAFBFA" stroke="#C9D1CD" stroke-width="1.5"/>
+<text x="100" y="652" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#56626B" text-anchor="middle">L. 43</text>
+<rect x="176" y="624" width="330" height="44" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
+<text x="341.0" y="650.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">Saben cuándo pasa la policía</text>
+<polyline points="508,646 596,646" fill="none" stroke="#2E7D32" stroke-width="2" marker-end="url(#m2E7D32)"/>
+<rect x="598" y="624" width="362" height="44" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
+<text x="779.0" y="650.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">ASP-05 · Romper las reglas juntos</text>
+<rect x="40" y="680" width="120" height="44" rx="8" fill="#FAFBFA" stroke="#C9D1CD" stroke-width="1.5"/>
+<text x="100" y="708" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#56626B" text-anchor="middle">L. 61–62</text>
+<rect x="176" y="680" width="330" height="44" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
+<text x="341.0" y="706.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">Liberar lo negativo</text>
+<polyline points="508,702 596,702" fill="none" stroke="#2E7D32" stroke-width="2" marker-end="url(#m2E7D32)"/>
+<rect x="598" y="680" width="362" height="44" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
+<text x="779.0" y="706.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">ASP-07 · Amistad que libera</text>
+<rect x="40" y="736" width="120" height="44" rx="8" fill="#FAFBFA" stroke="#C9D1CD" stroke-width="1.5"/>
+<text x="100" y="764" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#56626B" text-anchor="middle">L. 65–67</text>
+<rect x="176" y="736" width="330" height="44" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
+<text x="341.0" y="762.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">Media hora; antes, horas</text>
+<polyline points="508,758 596,758" fill="none" stroke="#2E7D32" stroke-width="2" marker-end="url(#m2E7D32)"/>
+<rect x="598" y="736" width="362" height="44" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
+<text x="779.0" y="762.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">ASP-08 · Tiempo recortado</text>
+<rect x="40" y="792" width="120" height="44" rx="8" fill="#FAFBFA" stroke="#C9D1CD" stroke-width="1.5"/>
+<text x="100" y="820" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#56626B" text-anchor="middle">L. 81–83</text>
+<rect x="176" y="792" width="330" height="44" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
+<text x="341.0" y="818.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">El amigo, como su familia</text>
+<polyline points="508,814 596,814" fill="none" stroke="#2E7D32" stroke-width="2" marker-end="url(#m2E7D32)"/>
+<rect x="598" y="792" width="362" height="44" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
+<text x="779.0" y="818.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">ASP-09 · Reencuentro con el amigo-familia</text>
+<text x="40" y="864" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#56626B" text-anchor="start" font-style="italic">En la entrevista completa: 18 unidades → 11 aspectos vividos (aquí se muestran seis).</text>
+<polyline points="960,916 100,916" fill="none" stroke="#8A3B5C" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#m8A3B5C)"/>
+<text x="530" y="906" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#8A3B5C" text-anchor="middle" font-style="italic">rastro: cada aspecto vuelve a su paráfrasis y a sus líneas</text>
+</svg>

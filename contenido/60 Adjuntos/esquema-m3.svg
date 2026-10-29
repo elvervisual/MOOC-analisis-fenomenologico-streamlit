@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1060" width="1000" height="1060" role="img" aria-label="Sección 3 · Producir y revisar el material experiencial">
+<title>Sección 3 · Producir y revisar el material experiencial</title>
+<defs><marker id="m1F3A5F" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F3A5F"/></marker><marker id="m1F7A78" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F7A78"/></marker><marker id="mA84A32" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A84A32"/></marker><marker id="mB7791F" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B7791F"/></marker></defs>
+<rect x="0" y="0" width="1000" height="1060" rx="14" fill="#FFFFFF"/>
+<text x="500.0" y="46" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="bold" fill="#1C2329" text-anchor="middle">Sección 3 · Producir y revisar el material experiencial</text>
+<text x="500.0" y="76" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#56626B" text-anchor="middle">El material no se recolecta: se produce en un encuentro, se transcribe con cuidado y se revisa antes de analizarlo</text>
+<text x="40" y="118" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">1. Producir el material</text>
+<line x1="40" y1="128" x2="960" y2="128" stroke="#C9D1CD" stroke-width="1.5"/>
+<rect x="40" y="150" width="220" height="100" rx="10" fill="#EFE8F6" stroke="#6B4C8A" stroke-width="2"/>
+<text x="150.0" y="185.4" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#6B4C8A" text-anchor="middle">Pregunta</text>
+<text x="150.0" y="209.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">+ escucha</text>
+<text x="150.0" y="229.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">(encuentro intencional)</text>
+<polyline points="262,200 328,200" fill="none" stroke="#1F7A78" stroke-width="2" marker-end="url(#m1F7A78)"/>
+<text x="295" y="188" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1F7A78" text-anchor="middle" font-style="italic">produce</text>
+<rect x="330" y="150" width="240" height="100" rx="10" fill="#E2F2F1" stroke="#1F7A78" stroke-width="2"/>
+<text x="450.0" y="194.4" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1F7A78" text-anchor="middle">Material</text>
+<text x="450.0" y="218.4" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="normal" fill="#1C2329" text-anchor="middle">experiencial</text>
+<polyline points="572,185 640,170" fill="none" stroke="#1F7A78" stroke-width="2" marker-end="url(#m1F7A78)"/>
+<polyline points="572,215 640,250" fill="none" stroke="#1F7A78" stroke-width="2" marker-end="url(#m1F7A78)"/>
+<rect x="642" y="134" width="318" height="66" rx="10" fill="#E2F2F1" stroke="#1F7A78" stroke-width="2"/>
+<text x="801.0" y="162.79999999999998" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F7A78" text-anchor="middle">Protocolo escrito</text>
+<text x="801.0" y="184.79999999999998" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">relato en primera persona</text>
+<rect x="642" y="214" width="318" height="66" rx="10" fill="#E2F2F1" stroke="#1F7A78" stroke-width="2"/>
+<text x="801.0" y="242.79999999999998" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F7A78" text-anchor="middle">Entrevista conversacional</text>
+<text x="801.0" y="264.79999999999995" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">el participante es colaborador</text>
+<text x="500" y="318" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#56626B" text-anchor="middle">Guion de entrevista en tres bloques (Bevan, 2014)</text>
+<rect x="120" y="332" width="220" height="62" rx="10" fill="#E2F2F1" stroke="#1F7A78" stroke-width="2"/>
+<text x="230.0" y="358.8" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F7A78" text-anchor="middle">Contextualizar</text>
+<text x="230.0" y="380.8" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">la experiencia</text>
+<polyline points="342,363 388,363" fill="none" stroke="#1F7A78" stroke-width="2" marker-end="url(#m1F7A78)"/>
+<rect x="390" y="332" width="220" height="62" rx="10" fill="#E2F2F1" stroke="#1F7A78" stroke-width="2"/>
+<text x="500.0" y="358.8" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F7A78" text-anchor="middle">Aprehender</text>
+<text x="500.0" y="380.8" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">el fenómeno</text>
+<polyline points="612,363 658,363" fill="none" stroke="#1F7A78" stroke-width="2" marker-end="url(#m1F7A78)"/>
+<rect x="660" y="332" width="220" height="62" rx="10" fill="#E2F2F1" stroke="#1F7A78" stroke-width="2"/>
+<text x="770.0" y="358.8" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F7A78" text-anchor="middle">Clarificar</text>
+<text x="770.0" y="380.8" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">«¿habría sido igual si…?»</text>
+<rect x="40" y="412" width="920" height="46" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
+<text x="500.0" y="439.5" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">Cuidado: reformular con palabras propias sugiere la respuesta. «¿lo traes como algo negativo?» (L. 58–59) → Tomás corrige (L. 61)</text>
+<text x="40" y="508" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">2. Transcribir</text>
+<line x1="40" y1="518" x2="960" y2="518" stroke="#C9D1CD" stroke-width="1.5"/>
+<rect x="40" y="534" width="290" height="66" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
+<text x="185.0" y="562.8000000000001" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Declarar la convención</text>
+<text x="185.0" y="584.8000000000001" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">(p. ej., Jefferson)</text>
+<polyline points="332,567 353,567" fill="none" stroke="#1F3A5F" stroke-width="2" marker-end="url(#m1F3A5F)"/>
+<rect x="355" y="534" width="290" height="66" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
+<text x="500.0" y="562.8000000000001" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Numerar las líneas</text>
+<text x="500.0" y="584.8000000000001" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">para poder citar</text>
+<polyline points="647,567 668,567" fill="none" stroke="#1F3A5F" stroke-width="2" marker-end="url(#m1F3A5F)"/>
+<rect x="670" y="534" width="290" height="66" rx="10" fill="#FBF1E1" stroke="#B7791F" stroke-width="2"/>
+<text x="815.0" y="562.8000000000001" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#B7791F" text-anchor="middle">Marcar lo dudoso</text>
+<text x="815.0" y="584.8000000000001" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">y no usarlo como evidencia</text>
+<text x="40" y="650" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">3. Revisar con las seis sugerencias de Van Manen (2003, pp. 81–83) · ejemplo: Tomás</text>
+<line x1="40" y1="660" x2="960" y2="660" stroke="#C9D1CD" stroke-width="1.5"/>
+<rect x="40" y="676" width="560" height="42" rx="8" fill="#FAFBFA" stroke="#C9D1CD" stroke-width="1.5"/>
+<text x="58" y="703" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#1C2329" text-anchor="start">Sin causas ni generalizaciones</text>
+<rect x="410" y="682" width="176" height="30" rx="15.0" fill="#FBF1E1" stroke="#B7791F" stroke-width="1.6"/>
+<text x="498.0" y="702.04" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#B7791F" text-anchor="middle">En parte</text>
+<rect x="40" y="728" width="560" height="42" rx="8" fill="#FAFBFA" stroke="#C9D1CD" stroke-width="1.5"/>
+<text x="58" y="755" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#1C2329" text-anchor="start">Desde dentro: ánimo, emociones</text>
+<rect x="410" y="734" width="176" height="30" rx="15.0" fill="#F7E6E1" stroke="#A84A32" stroke-width="1.6"/>
+<text x="498.0" y="754.04" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#A84A32" text-anchor="middle">Poco</text>
+<polyline points="602,749 700,860" fill="none" stroke="#A84A32" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#mA84A32)"/>
+<rect x="40" y="780" width="560" height="42" rx="8" fill="#FAFBFA" stroke="#C9D1CD" stroke-width="1.5"/>
+<text x="58" y="807" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#1C2329" text-anchor="start">Un suceso particular</text>
+<rect x="410" y="786" width="176" height="30" rx="15.0" fill="#FBF1E1" stroke="#B7791F" stroke-width="1.6"/>
+<text x="498.0" y="806.04" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#B7791F" text-anchor="middle">Solo en la 2.ª respuesta</text>
+<rect x="40" y="832" width="560" height="42" rx="8" fill="#FAFBFA" stroke="#C9D1CD" stroke-width="1.5"/>
+<text x="58" y="859" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#1C2329" text-anchor="start">Un ejemplo intenso o «primera vez»</text>
+<rect x="410" y="838" width="176" height="30" rx="15.0" fill="#E6F2E6" stroke="#2E7D32" stroke-width="1.6"/>
+<text x="498.0" y="858.04" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32" text-anchor="middle">Sí</text>
+<rect x="40" y="884" width="560" height="42" rx="8" fill="#FAFBFA" stroke="#C9D1CD" stroke-width="1.5"/>
+<text x="58" y="911" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#1C2329" text-anchor="start">Cuerpo, olores, sonidos</text>
+<rect x="410" y="890" width="176" height="30" rx="15.0" fill="#F7E6E1" stroke="#A84A32" stroke-width="1.6"/>
+<text x="498.0" y="910.04" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#A84A32" text-anchor="middle">Casi no</text>
+<polyline points="602,905 700,860" fill="none" stroke="#A84A32" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#mA84A32)"/>
+<rect x="40" y="936" width="560" height="42" rx="8" fill="#FAFBFA" stroke="#C9D1CD" stroke-width="1.5"/>
+<text x="58" y="963" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#1C2329" text-anchor="start">Sin embellecer el relato</text>
+<rect x="410" y="942" width="176" height="30" rx="15.0" fill="#E6F2E6" stroke="#2E7D32" stroke-width="1.6"/>
+<text x="498.0" y="962.04" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" fill="#2E7D32" text-anchor="middle">Sí</text>
+<rect x="702" y="800" width="258" height="120" rx="10" fill="#FBF1E1" stroke="#B7791F" stroke-width="2"/>
+<text x="831.0" y="835.4" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#B7791F" text-anchor="middle">Lo que falta</text>
+<text x="831.0" y="859.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">se pregunta en una</text>
+<text x="831.0" y="879.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">segunda conversación;</text>
+<text x="831.0" y="899.4" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">quien analiza no lo completa</text>
+<polyline points="960,800 985,760 985,250 962,250" fill="none" stroke="#B7791F" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#mB7791F)"/>
+<text x="975" y="745" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#B7791F" text-anchor="end" font-style="italic">vuelve a la entrevista</text>
+<text x="320" y="1008" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#56626B" text-anchor="middle" font-style="italic">Importa más que el relato sea plausible que exacto.</text>
+</svg>

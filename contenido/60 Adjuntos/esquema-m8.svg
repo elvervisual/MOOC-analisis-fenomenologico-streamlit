@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1010" width="1000" height="1010" role="img" aria-label="Sección 8 · Escritura, círculo validador y calidad">
+<title>Sección 8 · Escritura, círculo validador y calidad</title>
+<defs><marker id="m2E7D32" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2E7D32"/></marker><marker id="mA84A32" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A84A32"/></marker><marker id="mB7791F" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B7791F"/></marker></defs>
+<rect x="0" y="0" width="1000" height="1010" rx="14" fill="#FFFFFF"/>
+<text x="500.0" y="46" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="bold" fill="#1C2329" text-anchor="middle">Sección 8 · Escritura, círculo validador y calidad</text>
+<text x="500.0" y="76" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#56626B" text-anchor="middle">Escribir es el método: se escribe, se reescribe y se devuelve al participante hasta que se reconoce en el texto</text>
+<text x="40" y="118" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">1. De los temas a la descripción temática</text>
+<line x1="40" y1="128" x2="960" y2="128" stroke="#C9D1CD" stroke-width="1.5"/>
+<rect x="40" y="148" width="180" height="96" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
+<text x="130.0" y="183.4" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Temas</text>
+<text x="130.0" y="207.4" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">esenciales</text>
+<text x="130.0" y="225.4" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">(Secciones 6 y 7)</text>
+<polyline points="222,196 258,196" fill="none" stroke="#2E7D32" stroke-width="2" marker-end="url(#m2E7D32)"/>
+<rect x="260" y="148" width="210" height="96" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
+<text x="365.0" y="183.4" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E7D32" text-anchor="middle">Anécdota</text>
+<text x="365.0" y="207.4" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">un momento concreto,</text>
+<text x="365.0" y="225.4" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">solo con lo que dice</text>
+<polyline points="472,196 508,196" fill="none" stroke="#2E7D32" stroke-width="2" marker-end="url(#m2E7D32)"/>
+<rect x="510" y="148" width="200" height="96" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
+<text x="610.0" y="183.4" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E7D32" text-anchor="middle">Descripción v1</text>
+<text x="610.0" y="207.4" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">muestra la estructura</text>
+<text x="610.0" y="225.4" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">de la experiencia</text>
+<polyline points="712,196 748,196" fill="none" stroke="#2E7D32" stroke-width="2" marker-end="url(#m2E7D32)"/>
+<rect x="750" y="148" width="210" height="96" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
+<text x="855.0" y="183.4" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E7D32" text-anchor="middle">Reescritura v2</text>
+<text x="855.0" y="207.4" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">sin causas ni</text>
+<text x="855.0" y="225.4" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">valoraciones de hoy</text>
+<rect x="480" y="262" width="350" height="34" rx="17.0" fill="#E6F2E6" stroke="#2E7D32" stroke-width="1.6"/>
+<text x="655.0" y="283.68" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#2E7D32" text-anchor="middle">Bitácora: fecha y qué cambió en cada versión</text>
+<text x="500" y="330" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#56626B" text-anchor="middle" font-style="italic">«No es hasta que lo hemos escrito cuando conocemos realmente lo que sabíamos» (Van Manen, 2003, pp. 143–146)</text>
+<text x="40" y="380" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">2. Círculo validador: un diálogo, no la confirmación de una hipótesis</text>
+<line x1="40" y1="390" x2="960" y2="390" stroke="#C9D1CD" stroke-width="1.5"/>
+<polyline points="900,246 900,410" fill="none" stroke="#B7791F" stroke-width="2" marker-end="url(#mB7791F)"/>
+<rect x="720" y="412" width="240" height="100" rx="10" fill="#FBF1E1" stroke="#B7791F" stroke-width="2"/>
+<text x="840.0" y="449.40000000000003" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#B7791F" text-anchor="middle">Devolver el texto</text>
+<text x="840.0" y="473.40000000000003" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">al participante y</text>
+<text x="840.0" y="491.40000000000003" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">al seminario</text>
+<polyline points="718,462 612,462" fill="none" stroke="#B7791F" stroke-width="2" marker-end="url(#mB7791F)"/>
+<polygon points="500,400 610,462 500,524 390,462" fill="#FBF1E1" stroke="#B7791F" stroke-width="2"/>
+<text x="500" y="458" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#B7791F" text-anchor="middle">¿Se reconoce</text>
+<text x="500" y="478" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#B7791F" text-anchor="middle">en el texto?</text>
+<polyline points="388,462 262,462" fill="none" stroke="#A84A32" stroke-width="2" marker-end="url(#mA84A32)"/>
+<text x="330" y="452" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#A84A32" text-anchor="middle" font-style="italic">no</text>
+<rect x="40" y="412" width="220" height="100" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
+<text x="150.0" y="439.5" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#A84A32" text-anchor="middle">Registrar el desacuerdo</text>
+<text x="150.0" y="459.5" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">revisar el tema y su</text>
+<text x="150.0" y="477.5" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">variación imaginativa</text>
+<text x="150.0" y="495.5" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">y reescribir (v3…)</text>
+<polyline points="500,526 500,560" fill="none" stroke="#2E7D32" stroke-width="2" marker-end="url(#m2E7D32)"/>
+<text x="514" y="548" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#2E7D32" text-anchor="start" font-style="italic">sí: se valora con los cuatro criterios</text>
+<text x="500" y="604" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#56626B" text-anchor="middle" font-style="italic">Preguntas para Tomás: ¿así lo viviste? · ¿salir a escondidas era parte de lo bueno? · ¿qué sentías en el cuerpo?</text>
+<text x="40" y="640" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">3. Cuatro criterios de calidad (Van Manen, 2003, pp. 165–169) · evaluación del ejemplo</text>
+<line x1="40" y1="650" x2="960" y2="650" stroke="#C9D1CD" stroke-width="1.5"/>
+<rect x="40" y="670" width="215" height="120" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
+<text x="147.5" y="700" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#A84A32" text-anchor="middle">Orientado</text>
+<text x="147.5" y="724" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">¿Responde a la pregunta</text>
+<text x="147.5" y="742" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">y a la práctica?</text>
+<rect x="48" y="798" width="199" height="32" rx="16.0" fill="#E6F2E6" stroke="#2E7D32" stroke-width="1.6"/>
+<text x="147.5" y="818.32" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#2E7D32" text-anchor="middle">Sí</text>
+<rect x="275" y="670" width="215" height="120" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
+<text x="382.5" y="700" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#A84A32" text-anchor="middle">Firme</text>
+<text x="382.5" y="724" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">¿Se rastrea hasta</text>
+<text x="382.5" y="742" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">el texto?</text>
+<rect x="283" y="798" width="199" height="32" rx="16.0" fill="#FBF1E1" stroke="#B7791F" stroke-width="1.6"/>
+<text x="382.5" y="818.32" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#B7791F" text-anchor="middle">Parcial: T2 sin validar</text>
+<rect x="510" y="670" width="215" height="120" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
+<text x="617.5" y="700" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#A84A32" text-anchor="middle">Rico</text>
+<text x="617.5" y="724" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">¿Hay descripción</text>
+<text x="617.5" y="742" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">concreta?</text>
+<rect x="518" y="798" width="199" height="32" rx="16.0" fill="#FBF1E1" stroke="#B7791F" stroke-width="1.6"/>
+<text x="617.5" y="818.32" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#B7791F" text-anchor="middle">Limitado: poco cuerpo</text>
+<rect x="745" y="670" width="215" height="120" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
+<text x="852.5" y="700" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#A84A32" text-anchor="middle">Profundo</text>
+<text x="852.5" y="724" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">¿Conserva la complejidad</text>
+<text x="852.5" y="742" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1C2329" text-anchor="middle">del sentido?</text>
+<rect x="753" y="798" width="199" height="32" rx="16.0" fill="#FBF1E1" stroke="#B7791F" stroke-width="1.6"/>
+<text x="852.5" y="818.32" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#B7791F" text-anchor="middle">Parcial: tensión feo/agradable</text>
+<polyline points="500,836 500,868" fill="none" stroke="#A84A32" stroke-width="2" marker-end="url(#mA84A32)"/>
+<rect x="160" y="870" width="680" height="104" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
+<text x="500.0" y="907.1" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#A84A32" text-anchor="middle">Aporte al lector docente: una pregunta, no una ley</text>
+<text x="500.0" y="930.1" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">«¿Qué viven mis estudiantes cuando pierden el afuera?»</text>
+<text x="500.0" y="950.1" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">+ memo de límites: qué no permite afirmar un solo caso</text>
+</svg>

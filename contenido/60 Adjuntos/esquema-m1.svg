@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1010" width="1000" height="1010" role="img" aria-label="Sección 1 · Qué busca el análisis fenomenológico">
+<title>Sección 1 · Qué busca el análisis fenomenológico</title>
+<defs><marker id="m1F7A78" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F7A78"/></marker><marker id="m2E7D32" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2E7D32"/></marker><marker id="m56626B" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#56626B"/></marker><marker id="m6B4C8A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B4C8A"/></marker><marker id="m8E9AA0" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8E9AA0"/></marker></defs>
+<rect x="0" y="0" width="1000" height="1010" rx="14" fill="#FFFFFF"/>
+<text x="500.0" y="46" font-family="Helvetica, Arial, sans-serif" font-size="27" font-weight="bold" fill="#1C2329" text-anchor="middle">Sección 1 · Qué busca el análisis fenomenológico</text>
+<text x="500.0" y="76" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#56626B" text-anchor="middle">La pregunta decide el enfoque; Van Manen organiza el trabajo en seis actividades que se alternan</text>
+<text x="40" y="118" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">1. La pregunta decide qué se analiza</text>
+<line x1="40" y1="128" x2="960" y2="128" stroke="#C9D1CD" stroke-width="1.5"/>
+<rect x="60" y="142" width="240" height="40" rx="20.0" fill="#F2F4F3" stroke="#56626B" stroke-width="1.6"/>
+<text x="180.0" y="167.76" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#56626B" text-anchor="middle">«¿Por qué ocurre?»</text>
+<polyline points="180,184 180,214" fill="none" stroke="#56626B" stroke-width="2" marker-end="url(#m56626B)"/>
+<rect x="40" y="216" width="280" height="56" rx="10" fill="#F2F4F3" stroke="#56626B" stroke-width="2"/>
+<text x="180.0" y="249.1" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#56626B" text-anchor="middle">Teoría fundamentada</text>
+<polyline points="180,274 180,304" fill="none" stroke="#56626B" stroke-width="2" marker-end="url(#m56626B)"/>
+<text x="190" y="294" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#56626B" text-anchor="start" font-style="italic">produce</text>
+<rect x="40" y="306" width="280" height="64" rx="10" fill="#F2F4F3" stroke="#56626B" stroke-width="2"/>
+<text x="180.0" y="342.8" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#1C2329" text-anchor="middle">Una teoría que explica</text>
+<rect x="380" y="142" width="240" height="40" rx="20.0" fill="#F2F4F3" stroke="#56626B" stroke-width="1.6"/>
+<text x="500.0" y="167.76" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#56626B" text-anchor="middle">«¿Cuántas veces?»</text>
+<polyline points="500,184 500,214" fill="none" stroke="#56626B" stroke-width="2" marker-end="url(#m56626B)"/>
+<rect x="360" y="216" width="280" height="56" rx="10" fill="#F2F4F3" stroke="#56626B" stroke-width="2"/>
+<text x="500.0" y="249.1" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#56626B" text-anchor="middle">Codificación para contar</text>
+<polyline points="500,274 500,304" fill="none" stroke="#56626B" stroke-width="2" marker-end="url(#m56626B)"/>
+<text x="510" y="294" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#56626B" text-anchor="start" font-style="italic">produce</text>
+<rect x="360" y="306" width="280" height="64" rx="10" fill="#F2F4F3" stroke="#56626B" stroke-width="2"/>
+<text x="500.0" y="342.8" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#1C2329" text-anchor="middle">Frecuencias de categorías</text>
+<rect x="700" y="142" width="240" height="40" rx="20.0" fill="#EFE8F6" stroke="#6B4C8A" stroke-width="1.6"/>
+<text x="820.0" y="167.76" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#6B4C8A" text-anchor="middle">«¿Cómo es vivir esto?»</text>
+<polyline points="820,184 820,214" fill="none" stroke="#6B4C8A" stroke-width="2" marker-end="url(#m6B4C8A)"/>
+<rect x="680" y="216" width="280" height="56" rx="10" fill="#EFE8F6" stroke="#6B4C8A" stroke-width="2"/>
+<text x="820.0" y="249.1" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" fill="#6B4C8A" text-anchor="middle">Fenomenología hermenéutica</text>
+<polyline points="820,274 820,304" fill="none" stroke="#6B4C8A" stroke-width="2" marker-end="url(#m6B4C8A)"/>
+<text x="830" y="294" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#6B4C8A" text-anchor="start" font-style="italic">produce</text>
+<rect x="680" y="306" width="280" height="64" rx="10" fill="#EFE8F6" stroke="#6B4C8A" stroke-width="2"/>
+<text x="820.0" y="332.3" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#1C2329" text-anchor="middle">Estructuras de significado</text>
+<text x="820.0" y="353.3" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#1C2329" text-anchor="middle">de la experiencia vivida</text>
+<text x="500" y="398" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#56626B" text-anchor="middle" font-style="italic">Un tema no vale por cuántas veces aparece, sino por el significado que muestra.</text>
+<text x="40" y="446" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">2. Se vuelve sobre una experiencia ya vivida</text>
+<line x1="40" y1="456" x2="960" y2="456" stroke="#C9D1CD" stroke-width="1.5"/>
+<rect x="40" y="476" width="250" height="92" rx="10" fill="#E2F2F1" stroke="#1F7A78" stroke-width="2"/>
+<text x="165.0" y="507.40000000000003" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1F7A78" text-anchor="middle">Vivir</text>
+<text x="165.0" y="531.4000000000001" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">la experiencia, antes de</text>
+<text x="165.0" y="551.4000000000001" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">conceptualizarla (prerreflexiva)</text>
+<polyline points="292,522 373,522" fill="none" stroke="#1F7A78" stroke-width="2" marker-end="url(#m1F7A78)"/>
+<text x="332" y="510" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#1F7A78" text-anchor="middle" font-style="italic">después</text>
+<rect x="375" y="476" width="250" height="92" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
+<text x="500.0" y="507.40000000000003" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#1F3A5F" text-anchor="middle">Reflexionar</text>
+<text x="500.0" y="531.4000000000001" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">volver sobre lo vivido</text>
+<text x="500.0" y="551.4000000000001" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">(retrospectiva)</text>
+<polyline points="627,522 708,522" fill="none" stroke="#2E7D32" stroke-width="2" marker-end="url(#m2E7D32)"/>
+<text x="667" y="510" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#2E7D32" text-anchor="middle" font-style="italic">escribiendo</text>
+<rect x="710" y="476" width="250" height="92" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
+<text x="835.0" y="507.40000000000003" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="bold" fill="#2E7D32" text-anchor="middle">Comprender</text>
+<text x="835.0" y="531.4000000000001" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">el significado de esa</text>
+<text x="835.0" y="551.4000000000001" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#1C2329" text-anchor="middle">experiencia para esta persona</text>
+<text x="500" y="598" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#56626B" text-anchor="middle" font-style="italic">No es introspección: no se observa un estado interior en el momento. Busca «lo único» de esta situación.</text>
+<text x="40" y="646" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="bold" fill="#1C2329" text-anchor="start">3. Seis actividades que se alternan, no etapas fijas (Van Manen, 2003, p. 48)</text>
+<line x1="40" y1="656" x2="960" y2="656" stroke="#C9D1CD" stroke-width="1.5"/>
+<ellipse cx="500" cy="830" rx="360" ry="118" fill="none" stroke="#C9D1CD" stroke-width="2.5" stroke-dasharray="2 7"/>
+<path d="M612.2368923304632,733.24 Q674.5907214029428,730.88 699.5322530319347,749.76" fill="none" stroke="#8E9AA0" stroke-width="2" marker-end="url(#m8E9AA0)"/>
+<path d="M811.7691453623979,813.48 Q849.1814428058857,830.0 811.7691453623979,846.52" fill="none" stroke="#8E9AA0" stroke-width="2" marker-end="url(#m8E9AA0)"/>
+<path d="M699.5322530319347,910.24 Q674.5907214029428,929.12 612.2368923304632,926.76" fill="none" stroke="#8E9AA0" stroke-width="2" marker-end="url(#m8E9AA0)"/>
+<path d="M387.76310766953674,926.76 Q325.40927859705715,929.12 300.4677469680653,910.24" fill="none" stroke="#8E9AA0" stroke-width="2" marker-end="url(#m8E9AA0)"/>
+<path d="M188.23085463760208,846.52 Q150.8185571941143,830.0 188.23085463760208,813.48" fill="none" stroke="#8E9AA0" stroke-width="2" marker-end="url(#m8E9AA0)"/>
+<path d="M300.46774696806534,749.76 Q325.40927859705715,730.88 387.7631076695368,733.24" fill="none" stroke="#8E9AA0" stroke-width="2" marker-end="url(#m8E9AA0)"/>
+<rect x="380.0" y="682.0" width="240" height="60" rx="10" fill="#EFE8F6" stroke="#6B4C8A" stroke-width="2"/>
+<text x="500.0" y="708.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#6B4C8A" text-anchor="middle">1. Dirigirse al fenómeno</text>
+<text x="500.0" y="728.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Sección 2</text>
+<rect x="691.7691453623979" y="741.0" width="240" height="60" rx="10" fill="#E2F2F1" stroke="#1F7A78" stroke-width="2"/>
+<text x="811.7691453623979" y="767.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#1F7A78" text-anchor="middle">2. Investigar lo vivido</text>
+<text x="811.7691453623979" y="787.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Sección 3</text>
+<rect x="691.7691453623979" y="859.0" width="240" height="60" rx="10" fill="#E3EAF4" stroke="#1F3A5F" stroke-width="2"/>
+<text x="811.7691453623979" y="885.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#1F3A5F" text-anchor="middle">3. Reflexionar temas</text>
+<text x="811.7691453623979" y="905.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Secciones 4 a 7</text>
+<rect x="380.0" y="918.0" width="240" height="60" rx="10" fill="#E6F2E6" stroke="#2E7D32" stroke-width="2"/>
+<text x="500.0" y="944.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#2E7D32" text-anchor="middle">4. Escribir y reescribir</text>
+<text x="500.0" y="964.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Sección 8</text>
+<rect x="68.23085463760208" y="859.0" width="240" height="60" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
+<text x="188.23085463760208" y="885.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#A84A32" text-anchor="middle">5. Relación orientada</text>
+<text x="188.23085463760208" y="905.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Sección 8</text>
+<rect x="68.23085463760208" y="741.0" width="240" height="60" rx="10" fill="#F7E6E1" stroke="#A84A32" stroke-width="2"/>
+<text x="188.23085463760208" y="767.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#A84A32" text-anchor="middle">6. Partes y todo</text>
+<text x="188.23085463760208" y="787.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="normal" fill="#1C2329" text-anchor="middle">Secciones 4 y 8</text>
+<text x="500" y="824" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#56626B" text-anchor="middle">Se recorren en este curso,</text>
+<text x="500" y="846" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#56626B" text-anchor="middle">pero se vuelve sobre ellas</text>
+</svg>
